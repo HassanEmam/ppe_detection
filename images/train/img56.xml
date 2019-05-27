@@ -1,0 +1,38 @@
+<annotation>
+	<folder>training</folder>
+	<filename>img56.jpg</filename>
+	<path>C:\Users\hassa\Desktop\training\img56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>179</ymin>
+			<xmax>506</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>High Viz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>341</ymin>
+			<xmax>546</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>
